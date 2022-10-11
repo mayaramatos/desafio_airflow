@@ -16,7 +16,7 @@ A orquestração do Airflow deu-se em três etapas:
 
 
 
-![](Image\orquestracao_airflow.jpg)
+![](Image/orquestracao_airflow.jpg)
 
 
 ## Resumo do Projeto 🎯
@@ -37,4 +37,4 @@ A orquestração do Airflow deu-se em três etapas:
 ### Resultado dos processos executados com sucesso:
 
 
-![](Image\airflow_tasks.jpg)
+![](Image/airflow_tasks.jpg)
